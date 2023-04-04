@@ -1,0 +1,14 @@
+{
+    "builds": [
+        {
+            "src": "gptEra/wsgi.py",
+            "use": "@vercel/python"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "gptEra/wsgi.py"
+        }
+    ]
+}
