@@ -7,7 +7,7 @@ It returns the answer of the queries in synthesized voice and in the textual for
 <br>
 <br>
 Please Note : Use your own Open AI api key while using the app.
-This can be done by replacing the "Your Key" with OpenAI key in the file open.py located in the app directory.
+This can be done by replacing the "OPENAI_KEY" with OpenAI key in the file open.py located in the app directory.
 <br>
 Made by Team : Shiv<br>
 Team members
