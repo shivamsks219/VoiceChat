@@ -1,4 +1,3 @@
-CFFI>=1.0.0
 aiohttp==3.8.4
 aiosignal==1.3.1
 asgiref==3.6.0
@@ -14,7 +13,6 @@ frozenlist==1.3.3
 idna==3.4
 multidict==6.0.4
 openai==0.27.4
-PyAudio==0.2.13
 pymongo==4.3.3
 pyttsx3==2.90
 requests==2.28.2
