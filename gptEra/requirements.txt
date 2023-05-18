@@ -17,7 +17,7 @@ PyAudio==0.2.13
 pymongo==4.3.3
 pyttsx3==2.90
 requests==2.28.2
-SpeechRecognition==3.10.0
+SpeechRecognition==3.9.0
 sqlparse==0.4.3
 tqdm==4.65.0
 urllib3==1.26.15
